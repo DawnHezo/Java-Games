@@ -1,0 +1,15 @@
+MIDlet-1: PPG Snowboarding, /i.png, Main
+MIDlet-Name: PPG Snowboarding
+MIDlet-Version: 1.0.1
+MIDlet-Vendor: Glu Mobile
+MIDlet-Jar-Size: 266595
+MIDlet-Description: Visit dedomil.net for more games!
+MIDlet-Jar-URL: http://dedomil.net/games/2417/download-jar/79423
+MIDlet-Icon: /i.png
+Nokia-MIDlet-Category: Game
+ProvisionX-Highscore-Url: http://msppgsb.scores.glu.com/connectx/in
+ProvisionX-Highscore-gameCode: msppgsb
+ProvisionX-Highscore-portalCode: Macrospace
+ms-highscoreUpload: 0
+ms-skPos: 0
+ms-multiLang: 1

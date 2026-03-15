@@ -1,0 +1,18 @@
+MIDlet-Name: Madagascar Escape 2 Africa
+MIDlet-Version: 1.1.1
+MIDlet-Vendor: Glu Mobile
+MIDlet-Jar-URL: http://dedomil.net/games/1477/download-jar/35564
+MIDlet-Jar-Size: 587322
+MIDlet-1: Madagascar Escape 2 Africa, /i.png, GameMIDletMada
+MIDlet-Icon: /i.png
+MIDlet-Description: This is Madagascar
+ProvisionX-Highscore-gameCode: mdgscr2
+ms-skPos: 0
+Glu-Demo-Time-Limit: 0
+Glu-Demo-Game-Limit: 0
+Glu-Demo-Play-Limit: 0
+Glu-Game: mdgscr2
+Glu-Idle-Threshold: 0
+Glu-Locale: mul
+Glu-Wap-Type: 2
+Glu-Build: sonye_k800-mul-leads
